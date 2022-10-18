@@ -50,6 +50,37 @@ Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-e
 
 #### Espírito Santo - ES
 - [PicPay](https://picpay.gupy.io)
+- [PicPay Linkedin](https://www.linkedin.com/company/picpay/jobs/)
+- [ISH Tecnologia](https://www.linkedin.com/company/ish-tecnologia/jobs)
+- [R1 Engenharia](https://www.linkedin.com/company/r1-engenharia/jobs/)
+- [InPeace Brasil](https://www.linkedin.com/company/inpeace-app/jobs/)
+- [Valor Investimentos](https://www.linkedin.com/company/valorinvestimentos/jobs/)
+- [SuperTicket](https://www.linkedin.com/company/superticket/jobs/)
+- [Nexa Tecnologia](https://www.linkedin.com/company/nexatecnologia/jobs/)
+- [Kantar IBOPE Media](https://www.linkedin.com/company/kantaribopemedia/jobs/)
+- [Autoglass - Brasil](https://www.linkedin.com/company/autoglass---brasil/jobs/)
+- [Humtech - Recrutando para Tecnologia](https://www.linkedin.com/company/humtech/jobs/)
+- [Atman Systems](https://www.linkedin.com/company/atmansystems/jobs/)
+- [ITG Informação, Tecnologia e Gerência](https://www.linkedin.com/company/itgbrasil/jobs/)
+- [Spassu Tecnologia e Serviços](https://www.linkedin.com/company/spassu-tecnologia-e-servi%C3%A7os/jobs/)
+- [Code n' App](https://www.linkedin.com/company/code-n-app/jobs/)
+- [Grupo Educavix](https://www.linkedin.com/company/grupoeducavix/jobs/)
+- [Custom Sistemas](https://www.linkedin.com/company/custom-sistemas/jobs/)
+- [Mantis Tecnologia](https://www.linkedin.com/company/mantis-tecnologia/jobs/)
+- [Tegrus](https://www.linkedin.com/company/tegrus-br/jobs/)
+- [VipRede](https://www.linkedin.com/company/vip-rede/jobs/)
+- [Base Consultoria](https://www.linkedin.com/company/baseconsultoria/jobs/)
+- [Voltz Motors](https://www.linkedin.com/company/voltzmotors/jobs/)
+- [Via](https://www.linkedin.com/company/viaimaginecaminhos/jobs/)
+- [FORTLEV](https://www.linkedin.com/company/fortlevbrasil/jobs/)
+- [Ilha Service Tecnologia e Serviços](https://www.linkedin.com/company/ilhaservice-tecnologia/jobs/)
+- [Fator WoW!](https://www.linkedin.com/company/fatorwow/jobs/)
+- [Psicoespaço LTDA](https://www.linkedin.com/company/psicoespa-o-ltda/jobs/)
+- [F2 Consultoria Organizacional](https://www.linkedin.com/company/f2-consultoria-organizacional/jobs/)
+- [UpCities](https://www.linkedin.com/company/upcities/jobs/)
+- [Sollo Brasil](https://www.linkedin.com/company/sollo-brasil/jobs/)
+- [Wine.com.br](https://www.linkedin.com/company/wine.com.br/jobs/)
+- 
 
 #### Goiás - GO
 
